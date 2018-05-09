@@ -69,6 +69,7 @@ var movie = {
       "powers": "None;"
     }, {
       "first_appearance": "Tales to Astonish #13 (1960)",
+      "abilities": "A tree",
       "name": "GROOT",
       "weight": "Unrevealed (variable)",
       "real_name": "Groot",
@@ -78,6 +79,7 @@ var movie = {
     }, {
       "first_appearance": "X-Men #4 (1964)",
       "Origin": "Avengers #187 (1979), Avengers #234 (1983)",
+      "abilities":"Fall in love with Vision",
       "name": "SCARLET WITCH",
       "weight": "132 lbs.",
       "real_name": "Wanda Maximoff",
@@ -123,6 +125,6 @@ var movie = {
       "real_name": "Thor Odinson",
       "height": "6'6\"; (Blake) 5\u20199\"",
       "group_affiliations": "Gods of Asgard, Avengers; formerly Queen\u2019s Vengeance, Godpack, Thor Corps",
-      "powers": "As the son of Odin and Gaea, Thor's strength, endurance and resistance to injury are greater than the vast majority of his superhuman race. He is extremely long-lived (though not completely immune to aging), immune to conventional disease and highly resistant to injury. His flesh and bones are several times denser than a human's.As Lord of Asgard, Thor possessed the Odinforce, which enabled him to tap into the near-infinite resources of cosmic and mystical energies, enhancing all of his abilities. With the vast magical power of the Odinforce, Thor was even able to dent Captain America’s virtually indestructible shield with Mjolnir.Thor complete powers, Click here for complete list of Thor's powers"
+      "powers": "As the son of Odin and Gaea, Thor's strength, endurance and resistance to injury are greater than the vast majority of his superhuman race. He is extremely long-lived (though not completely immune to aging), immune to conventional more"
     }]
 };
