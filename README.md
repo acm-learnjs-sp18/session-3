@@ -232,7 +232,7 @@ Slides here:
 
 14. Now, your `main.js` file should look like this:
 
-    ![img](https://lh5.googleusercontent.com/eFWsUNZp3tGO3JREspy7eaoA2fXOjTgUUCkCZJMr3b_GWT9MGJSL68Y4OaQemLPTJWsJpPxIhzBbVDFTfw-00AfJtOHZhrQRD0s5vYFXKMoIYIeyciJT9GsZC4qbMpsmzPlWV7d5)
+    ![img](https://lh4.googleusercontent.com/SByISl8fr-Srpd_PqmSdThVQcCUskdQShFf92B1CN8oKm5skjw2DMk-s6sva_KFya1r6nQzmsXdXQnP1m1N9xZS-mIRqsP5UtAHZ22aHix58mlvNULiZeGSbJE2kc7BOcpHMwItt)
 
 15. And that's it!
 
