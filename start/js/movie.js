@@ -69,6 +69,7 @@ var movie = {
       "powers": "None;"
     }, {
       "first_appearance": "Tales to Astonish #13 (1960)",
+      "abilities": "A tree",
       "name": "GROOT",
       "weight": "Unrevealed (variable)",
       "real_name": "Groot",
@@ -78,6 +79,7 @@ var movie = {
     }, {
       "first_appearance": "X-Men #4 (1964)",
       "Origin": "Avengers #187 (1979), Avengers #234 (1983)",
+      "abilities":"Fall in love with Vision",
       "name": "SCARLET WITCH",
       "weight": "132 lbs.",
       "real_name": "Wanda Maximoff",
