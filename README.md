@@ -4,7 +4,7 @@
 
 To download this repo, click the bright green button at the top of this page and select "Download ZIP":
 
-![img](https://lh5.googleusercontent.com/V8XqX2ir2leH4D45dxRUBwdIUxh1FXJTDcb5Rh3F5uz5FlyG0dwfjzuKNwIxEHGmzVrPyJI9wHBx9k5oGUnU9j1m63yDOEXsQYDqPSyYhgw4ZGbbKiwEwNNLa1RBU8Xi27l56efi)
+![img](https://lh5.googleusercontent.com/i5eKIu2p2SzShYzXiXIQKk-wReN4ULrCr1pKxoPsSLvUDavr5qtzkvSNiBb5OO1sWT2VSP5jmoZBYSaZyJfKvao7OIFwGtzRBkLhoq8-hAtA9ZuaQIPOkKiw-ohgYNQzbB1qRce6)
 
 All the code we'll be doing today will be done in the `start` directory, but you can look at the `final` folder for reference.
 
@@ -16,7 +16,7 @@ Slides here:
 
 1. Start by heading into the `index.html` file in the `start` directory. There, you'll see a couple of `TODOs` marked for you already. It should look like this:
 
-![img](https://lh5.googleusercontent.com/i5eKIu2p2SzShYzXiXIQKk-wReN4ULrCr1pKxoPsSLvUDavr5qtzkvSNiBb5OO1sWT2VSP5jmoZBYSaZyJfKvao7OIFwGtzRBkLhoq8-hAtA9ZuaQIPOkKiw-ohgYNQzbB1qRce6)
+![img](https://lh5.googleusercontent.com/V8XqX2ir2leH4D45dxRUBwdIUxh1FXJTDcb5Rh3F5uz5FlyG0dwfjzuKNwIxEHGmzVrPyJI9wHBx9k5oGUnU9j1m63yDOEXsQYDqPSyYhgw4ZGbbKiwEwNNLa1RBU8Xi27l56efi)
 
 2. Right now, we'll be tackling the `MOVIE INTRO` todo.
 
